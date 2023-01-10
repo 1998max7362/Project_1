@@ -261,15 +261,13 @@ li{
   font-size: 18px;
   font-weight: 600;
 }
-.column-links{
+.footer__column-links{
   margin-bottom: 16px;
 }
-.column-link{
+.footer__column-link{
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
   margin-bottom: 10px;
-}
-a.column-link{
   color: white;
 }
